@@ -1,0 +1,2 @@
+computer_vision:computer_vision2
+-DCATKIN_DEVEL_PREFIX=/home/liares/lia_ws/devel -DCMAKE_INSTALL_PREFIX=/home/liares/lia_ws/install -G Unix Makefiles

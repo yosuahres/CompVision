@@ -1,0 +1,8 @@
+prefix=/home/liares/lia_ws/devel
+
+Name: computer_vision2
+Description: Description of computer_vision2
+Version: 0.0.0
+Cflags: -I/home/liares/lia_ws/src/computer_vision2/include
+Libs: -L${prefix}/lib 
+Requires: 

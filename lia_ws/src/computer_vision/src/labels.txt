@@ -1,0 +1,6 @@
+BACKGROUND
+ferro
+non_ferro
+daun
+kertas
+plastik
