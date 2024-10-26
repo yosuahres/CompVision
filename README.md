@@ -1,3 +1,4 @@
 # CompVision
-Jetson-Inference for jetson used
+Jetson-Inference for jetson device use only
+<br>
 ROS Noetic reference
